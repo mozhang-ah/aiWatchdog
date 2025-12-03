@@ -1,5 +1,8 @@
 [English](readme_en.md) | 中文
 
+### 2025.12.3更新-我们发布了aiwatchdog的桌面版本软件，普通用户可以快速上手而不是从0开始安装， [下载地址](https://www.aiwatchdog.cn/ "download") 
+### 关注我们的B站账号，我们的使用视频教程和案例都会在上面发布：[b站教程地址](https://www.bilibili.com/video/BV1SpSaBhE2i "b站教程地址")
+
 # 智能视频监控预警系统
 
 ## 项目概述
